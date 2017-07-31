@@ -69,7 +69,7 @@ Eulerian CTMs use coupled ordinary differential equations (ODEs) to predict chan
 
 Mathematically, these processes relate to the concentration change in each grid cell over time $(\frac{\partial C}{\partial t})$ through the *continuity equation,* which is presented in simplified form below:
 
-$\frac{\partial C}{\partial t} = Adv + Diff + R_c + E_c – S_c$
+$$\frac{\partial C}{\partial t} = Adv + Diff + R_c + E_c – S_c$$
 
 where,  
 Adv = advection,  
